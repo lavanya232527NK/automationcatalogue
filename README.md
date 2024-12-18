@@ -1,0 +1,2 @@
+# automationcatalogue
+practice automation
